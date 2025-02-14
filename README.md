@@ -25,7 +25,7 @@
 ### 👤 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/ushnish-ghosal" target="blank">
+  <a href="https://linkedin.com/in/ushnishghosal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/ghosalushnish" target="blank">
