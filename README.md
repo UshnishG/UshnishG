@@ -1,131 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ushnish%20Ghosal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=UshnishG">
-    <img src="https://komarev.com/ghpvc/?username=UshnishG&label=Profile%20views&color=00FFFF&style=flat-square" alt="UshnishG's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 🌱 Computer Science Engineer and AI researcher passionate about building intelligent systems that solve real-world problems.
-- 🤖 Currently exploring Computer Vision, Generative AI, Agentic LLMs, and Edge AI technologies.
-- 🔬 Actively involved in research spanning autonomous systems, network intelligence, and multimodal AI.
-- 🚁 Developing AI-driven solutions for disaster response, environmental monitoring, and embedded deployment.
-
-
-## 🧠 My Focus Areas
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Large Language Models & Agentic AI
-- Edge AI & Embedded Systems
-- Network Intelligence
-- Autonomous Systems
-
-
-## 📊 GitHub Stats & Trophies
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/UshnishG">
-<img
-height="180em"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=UshnishG&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10"
-alt="UshnishG's GitHub Stats"
-/>
-</a>
-</td>
-
-<td width="20"></td>
-
-<td>
-<img
-height="180em"
-src="https://streak-stats.demolab.com?user=UshnishG&theme=dark&hide_border=true"
-alt="GitHub Streak"
-/>
-</td>
-</tr>
-</table>
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/UshnishG">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UshnishG&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=UshnishG)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ushnishghosal"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ushnish Ghosal's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ghosalushnish@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ushnish Ghosal's Email"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.ushnish-portfolio.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/917810982910"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
+<!-- Header -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+
+```
+█  █ █▀▀ █  █ █▄  █ █ █▀▀ █  █   █▀▀ █  █ █▀█ █▀▀ █▀▀ █
+█  █ ▀▀█ █▀▀█ █ █ █ █ ▀▀█ █▀▀█   █ █ █▀▀█ █ █ ▀▀█ █▀█ █
+▀▀▀▀ ▀▀▀ ▀  ▀ ▀  ▀▀ ▀ ▀▀▀ ▀  ▀   ▀▀▀ ▀  ▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀
+```
+
+**AI Researcher · Computer Vision · Edge Intelligence · Autonomous Systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ushnishghosal-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ushnishghosal)
+[![Email](https://img.shields.io/badge/Email-ghosalushnish@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ghosalushnish@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ushnish--portfolio.vercel.app-6e40c9?style=flat-square&logo=vercel&logoColor=white)](https://www.ushnish-portfolio.vercel.app)
+
 </div>
 
+---
+
+## Research Interests
+
+```
+Computer Vision          ████████████████████  Object Detection · Instance Segmentation · Pose Estimation
+Generative AI            ████████████████░░░░  Diffusion Models · Multimodal LLMs · Synthetic Data
+Agentic Systems          ███████████████░░░░░  Tool-Use · Planning · Multi-Agent Coordination
+Edge AI                  █████████████░░░░░░░  Model Compression · TensorRT · Embedded Deployment
+Network Intelligence     ████████████░░░░░░░░  Anomaly Detection · Traffic Classification · SDN
+Autonomous Systems       ███████████░░░░░░░░░  UAV · Disaster Response · Environmental Monitoring
+```
+
+---
+
+## Active Projects
+
+| Project | Domain | Stack | Status |
+|---|---|---|---|
+| **YOLOv12 Human Detection Pipeline** | CV · Object Detection | PyTorch · ONNX · TensorRT | `In Progress` |
+| **Fire Instance Segmentation** | CV · Segmentation | YOLOv8 · SAM · OpenCV | `In Progress` |
+| **Agentic LLM Framework** | NLP · Planning | LangGraph · Tool-Use APIs | `Research` |
+| **Edge Deployment Toolkit** | Edge AI · Embedded | RKNN · Jetson · NCNN | `Ongoing` |
+
+---
+
+## Stack
+
+<div align="center">
+
+**Core Research**
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**MLOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-ffbe00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+
+**Web & Prototyping**
+
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UshnishG&show_icons=true&theme=transparent&hide_border=true&title_color=6e40c9&icon_color=00d4ff&text_color=e8eaf0&hide_rank=false" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UshnishG&langs_count=6&layout=compact&theme=transparent&hide_border=true&title_color=6e40c9&text_color=e8eaf0" />
+</div>
+
+---
+
+## Research Philosophy
+
+> *"The gap between a model that works in a notebook and one that works in the world is where the real research begins."*
+
+I build at the intersection of rigorous methodology and deployable systems — whether that means optimising an inference pipeline for a UAV processor, designing annotation schemas for rare-event datasets, or architecting agentic workflows that hold up under adversarial inputs.
+
+Current focus: pushing detection and segmentation models toward production readiness in resource-constrained and safety-critical environments.
+
+---
+
+<div align="center">
+
+*Open to research collaborations, paper reviews, and conversations about hard CV problems.*
+
+</div>
