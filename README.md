@@ -25,11 +25,30 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/UshnishG">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UshnishG&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="UshnishG's GitHub Stats" /></a>
-    <img src="https://streak-stats.demolab.com?user=UshnishG&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/UshnishG">
+<img
+height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=UshnishG&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10"
+alt="UshnishG's GitHub Stats"
+/>
+</a>
+</td>
+
+<td width="20"></td>
+
+<td>
+<img
+height="180em"
+src="https://streak-stats.demolab.com?user=UshnishG&theme=dark&hide_border=true"
+alt="GitHub Streak"
+/>
+</td>
+</tr>
+</table>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
