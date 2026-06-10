@@ -29,13 +29,6 @@
   <a href="https://github.com/UshnishG">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UshnishG&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="UshnishG's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=UshnishG&theme=dracula&hide_border=true&cache_seconds=86400" alt="UshnishG's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=UshnishG&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ushnish Ghosal's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=UshnishG&theme=dracula&radius=10" alt="UshnishG's Activity Graph" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
