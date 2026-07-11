@@ -30,8 +30,8 @@ text, tspan {white-space: pre;}
         <animate attributeName="y" values="20;508;20" dur="5s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.8;0;0.8" dur="5s" repeatCount="indefinite"/>
     </rect>
-<text x="390" y="30" opacity="0">
-  <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/> fill="#24292f"&gt;
+<text x="390" y="30" fill="#24292f" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
 <tspan x="390" y="30">ushnish@ghosal</tspan> -———————————————————————————————————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Title</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">AI &amp; Computer Vision Researcher</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
