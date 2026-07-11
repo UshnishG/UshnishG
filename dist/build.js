@@ -36,6 +36,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const child_process_1 = require("child_process");
 const path = __importStar(require("path"));
 const scripts = [
+    'neofetch.js',
     'hero.js',
     'terminal.js',
     'skills.js',

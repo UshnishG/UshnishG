@@ -1,7 +1,7 @@
 import { execSync } from 'child_process';
 import * as path from 'path';
-
 const scripts = [
+  'neofetch.js',
   'hero.js',
   'terminal.js',
   'skills.js',

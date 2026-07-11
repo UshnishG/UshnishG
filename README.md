@@ -1,18 +1,7 @@
 
 <div align="center">
   
-  <img src="./assets/animations/hero.svg" alt="Hero Animation" width="800" />
-
-  <br/>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/ushnishghosal"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=4F8CFF" alt="LinkedIn"/></a>
-    <a href="https://github.com/UshnishG"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=4F8CFF" alt="GitHub"/></a>
-  </p>
-
-  <br/>
-  
-  <img src="./assets/animations/terminal.svg" alt="Terminal" width="800" />
+  <img src="./assets/animations/neofetch.svg" alt="Ushnish Ghosal Profile" width="850" />
   
   <br/>
 
