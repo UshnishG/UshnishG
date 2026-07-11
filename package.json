@@ -1,0 +1,29 @@
+{
+  "name": "ushnishg",
+  "version": "1.0.0",
+  "description": "<img src=\"https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ushnish%20Ghosal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher&descSize=22&descColor=FFFFFF&descAlignY=65\" width=\"100%\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx ts-node scripts/build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UshnishG/UshnishG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UshnishG/UshnishG/issues"
+  },
+  "homepage": "https://github.com/UshnishG/UshnishG#readme",
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "axios": "^1.18.1",
+    "dotenv": "^17.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
