@@ -44,34 +44,34 @@
   </style>
   <rect width="100%" height="100%" fill="#0B0F19" rx="12" />
   <g transform="translate(10, 20)">
-    <g transform="translate(0, 0)">
-      <rect class="stat-box" x="0" y="0" width="145" height="120" />
-      <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">124</text>
-      <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Total Stars</text>
+      <g transform="translate(0, 0)">
+        <rect class="stat-box" x="0" y="0" width="145" height="120" />
+        <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">124</text>
+        <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Total Stars</text>
+      </g>
+    
+      <g transform="translate(155, 0)">
+        <rect class="stat-box" x="0" y="0" width="145" height="120" />
+        <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">1042</text>
+        <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Commits</text>
+      </g>
+    
+      <g transform="translate(310, 0)">
+        <rect class="stat-box" x="0" y="0" width="145" height="120" />
+        <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">125k</text>
+        <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Lines Added</text>
+      </g>
+    
+      <g transform="translate(465, 0)">
+        <rect class="stat-box" x="0" y="0" width="145" height="120" />
+        <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">55</text>
+        <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Followers</text>
+      </g>
+    
+      <g transform="translate(620, 0)">
+        <rect class="stat-box" x="0" y="0" width="145" height="120" />
+        <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">45</text>
+        <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Repositories</text>
+      </g>
     </g>
-  
-    <g transform="translate(155, 0)">
-      <rect class="stat-box" x="0" y="0" width="145" height="120" />
-      <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">1042</text>
-      <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Commits (2026)</text>
-    </g>
-  
-    <g transform="translate(310, 0)">
-      <rect class="stat-box" x="0" y="0" width="145" height="120" />
-      <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">45</text>
-      <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Pull Requests</text>
-    </g>
-  
-    <g transform="translate(465, 0)">
-      <rect class="stat-box" x="0" y="0" width="145" height="120" />
-      <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">23</text>
-      <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Issues</text>
-    </g>
-  
-    <g transform="translate(620, 0)">
-      <rect class="stat-box" x="0" y="0" width="145" height="120" />
-      <text class="mono stat-val" x="72.5" y="65" text-anchor="middle">1840</text>
-      <text class="grotesk stat-label" x="72.5" y="95" text-anchor="middle">Contributions</text>
-    </g>
-  </g>
 </svg>

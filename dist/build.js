@@ -35,25 +35,41 @@ var __importStar = (this && this.__importStar) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 const child_process_1 = require("child_process");
 const path = __importStar(require("path"));
+const github_1 = require("./github");
+const neofetch_1 = require("./neofetch");
+const stats_1 = require("./stats");
 const scripts = [
-    'neofetch.js',
     'hero.js',
     'terminal.js',
     'skills.js',
     'timeline.js',
     'projects.js',
-    'stats.js',
     'generate-readme.js'
 ];
-console.log('Starting build process...');
-scripts.forEach(script => {
-    console.log(`Running ${script}...`);
+async function build() {
+    console.log('Starting build process...');
     try {
-        (0, child_process_1.execSync)(`node ${path.join(__dirname, script)}`, { stdio: 'inherit' });
+        const stats = await (0, github_1.fetchGitHubStats)();
+        console.log('Fetched stats:', stats);
+        console.log('Generating Neofetch SVG...');
+        (0, neofetch_1.generateNeofetchSVG)(stats);
+        console.log('Generating Stats SVG...');
+        (0, stats_1.generateStatsSVG)(stats);
+        scripts.forEach(script => {
+            console.log(`Running ${script}...`);
+            try {
+                (0, child_process_1.execSync)(`node ${path.join(__dirname, script)}`, { stdio: 'inherit' });
+            }
+            catch (error) {
+                console.error(`Error running ${script}:`, error);
+                process.exit(1);
+            }
+        });
+        console.log('Build completed successfully!');
     }
-    catch (error) {
-        console.error(`Error running ${script}:`, error);
+    catch (err) {
+        console.error('Build failed:', err);
         process.exit(1);
     }
-});
-console.log('Build completed successfully!');
+}
+build();

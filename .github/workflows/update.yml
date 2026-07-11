@@ -30,6 +30,8 @@ jobs:
 
       - name: Compile and Build SVGs & README
         run: npm run build
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         
       - name: Commit and Push Changes
         run: |
